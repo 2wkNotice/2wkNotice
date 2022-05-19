@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2wkNotice
+- 👋 Hi, I’m sb (@2wkNotice)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Powershell, Networking, & Group Policy
 - 💞️ I’m looking to collaborate on anything you're willing!
